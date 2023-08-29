@@ -3,7 +3,7 @@
 
 /**
 * print_listint- prints elements of the listint_t list
-* >h - is the pointer to the header of the list
+* @h: is the pointer to the header of the list
 *
 * Return:nnumber of nodes in the list.
 */

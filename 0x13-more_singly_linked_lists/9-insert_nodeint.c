@@ -3,9 +3,9 @@
 /**
  * insert_nodeint_at_index - insert new node in a linked list,
  * at a given position
- * >head: pointer to the 1st node in the list
- * >idx: index where the new node added
- * >n: data to insert in the new node
+ * @head: pointer to the 1st node in the list
+ * @idx: index where the new node added
+ * @n: data to insert in the new node
  *
  * Return: pointer to the new node, or NULL
  **/
